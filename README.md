@@ -2,7 +2,7 @@
 Automating the auditing of affiliate marketer commissions.
 
 ## Situation
-We use Share-A-Sale for affiliate link marketing. Antiquated product, but simple and generally works.
+We use Share-A-Sale for affiliate link marketing. Not the best UI, but low fees/no contract, simple to set up, and generally works.
 Returning customer sales recieve a 10% commission rate, new customer sales recieve a 30% commission rate.
 
 ## Problem
